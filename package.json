@@ -1,5 +1,5 @@
 {
-  "name": "mongo-collection",
+  "name": "mongo-collection.js",
   "version": "0.0.0",
   "description": "light wrapper around a mongo collection",
   "main": "index.js",
