@@ -4,7 +4,7 @@
   "description": "light wrapper around a mongo collection",
   "main": "index.js",
   "scripts": {
-    "test": "test/test-mongoEvents.js"
+    "test": "node test/test-mongoEvents.js"
   },
   "repository": {
     "type": "git",
