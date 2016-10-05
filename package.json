@@ -4,8 +4,12 @@
   "description": "light wrapper around a mongo collection",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "test/test-mongoEvents.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:victusfate/mongo-collection.git"
+  },  
   "keywords": [
     "mongo"
   ],
@@ -13,5 +17,9 @@
   "license": "ISC",
   "dependencies": {
     "mongodb": "^2.2.10"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/victusfate/mongo-collection/issues"
+  },
+  "homepage": "https://github.com/victusfate/mongo-collection#README.md"  
 }
